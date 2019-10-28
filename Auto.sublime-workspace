@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"scr",
+				"source\tTag"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"op",
+				"opleiding"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ruben/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/we ek 7/test.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/Gehaktbrood.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/nagerecht.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/voorgerecht.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/gehaktbrood.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/cssforblogbox.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/Blog.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/portfolio.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/Pages.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/Features.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/content_in_box_css.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/week 5/content in box.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 4/Gamejs.js",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 4/Gamehtml.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 4/Gamecss.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/Wie ben ik css.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/Wie_ben_ik_css.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/Werk_wie_ben_ik.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/opleiding_wie_ben_ik.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/Homepage_wie_ben_ik.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/calculator.js",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/csskrantenartikel.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/krantenartikelhtml.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 3/Werk_wie_ben_ik",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/csskrantenartikel.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/b1w2l1.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/krantenartikelhtml.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/._b1w2l1.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/css/style.css",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/index.html",
+		"/C/Users/ruben/Downloads/calculatorhtml.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/Pizzacalculator.js",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/pizzacalculatorhtml.html",
+		"/C/Users/ruben/Downloads/Prompt_calculator.rar",
+		"/C/Users/ruben/Downloads/pizza_calculator.rar",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/Week 1/b1w2l1.js",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/calc niet aangepast.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/b1w2l1.html",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/b1w2l1.js",
+		"/C/Users/ruben/OneDrive/Documents/school/Applicatie ontwikkeling/Week 1/._b1w2l1.html",
+		"/C/Users/ruben/OneDrive/Documents/Page1.html",
+		"/C/Users/ruben/OneDrive/Documents/style.css",
+		"/C/Users/ruben/OneDrive/Documents/index.html",
+		"/C/Users/ruben/OneDrive/Documents/Page2.html",
+		"/C/Users/ruben/OneDrive/Documents/Page3.html",
+		"/C/Program Files (x86)/Sublime Text 3/Page3.html",
+		"/C/Program Files (x86)/Sublime Text 3/Page2.html",
+		"/C/Program Files (x86)/Sublime Text 3/Page1.html",
+		"/C/Program Files (x86)/Sublime Text 3/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Auto.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

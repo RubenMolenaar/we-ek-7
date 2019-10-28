@@ -144,6 +144,12 @@ div.footer {
 	border: solid 6px #FFF;
 }
 
+#Bannerkleding {
+	width: 550px;
+	margin: 20px 10px 30px 30px;
+	border: solid 6px #FFF;
+}
+
 .paragraphlist li {
 	margin-bottom: 10px;
 }
@@ -152,5 +158,10 @@ div.footer {
 	grid-row: 2/3;
 }
 
+.itemkleding p {
+	margin-left: 40px;
+}
 
-
+.aline-text {
+	margin-left: 40px;
+}
